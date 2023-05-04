@@ -1,0 +1,16 @@
+PODS:
+  - Authentications (0.1.0)
+
+DEPENDENCIES:
+  - Authentications (from `../`)
+
+EXTERNAL SOURCES:
+  Authentications:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Authentications: 1145c9e6e255cdf691cc36e466b59e3974d5a791
+
+PODFILE CHECKSUM: 0d044a5f0abb21742dfbc976e8d7bb972a17110a
+
+COCOAPODS: 1.12.1

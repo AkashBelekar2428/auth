@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '16.2'
+
+target 'Authentications_Example' do
+  pod 'Authentications', :path => '../'
+
+  target 'Authentications_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
